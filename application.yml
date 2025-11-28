@@ -8,7 +8,7 @@ eureka:
 
 logging:
   level:
-    com.msa: ERROR
+    com.msa: DEBUG
 
 spring:
   datasource:
